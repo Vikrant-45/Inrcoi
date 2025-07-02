@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>INRcoin - Official Token of Bharat</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom, #f5f5f5, #fff5e6);
+      color: #222;
+      text-align: center;
+    }
+    header {
+      background-color: #141414;
+      color: #fff;
+      padding: 20px 10px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    .logo {
+      max-width: 120px;
+      margin: 10px auto;
+    }
+    .main {
+      padding: 30px 20px;
+    }
+    .main h2 {
+      color: #d97706;
+      font-size: 26px;
+    }
+    .main p {
+      font-size: 18px;
+      max-width: 600px;
+      margin: auto;
+    }
+    .buttons {
+      margin-top: 30px;
+    }
+    .buttons a {
+      text-decoration: none;
+      color: white;
+      background: #16a34a;
+      padding: 12px 24px;
+      margin: 10px;
+      border-radius: 10px;
+      display: inline-block;
+    }
+    footer {
+      background-color: #facc15;
+      color: #000;
+      padding: 15px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.ibb.co/bWkMX3g/inrcoin-logo.png" alt="INRcoin Logo" class="logo">
+    <h1>INRcoin</h1>
+    <p>The Official Utility Token of Bharat</p>
+  </header>
+  <section class="main">
+    <h2>जोड़े भारत का क्रिप्टो कॉयन</h2>
+    <p>INRcoin ek legal-safe utility token hai jise desh ke log apne local payments, rewards aur digital future mein use kar sakte hain. Yeh kisi bhi fixed return ya profit ka wada nahi karta.</p>
+    <div class="buttons">
+      <a href="https://pancakeswap.finance/swap?outputCurrency=YOUR_TOKEN_ADDRESS" target="_blank">💵 Buy INRcoin</a>
+      <a href="https://bscscan.com/token/YOUR_TOKEN_ADDRESS" target="_blank">🔍 View on BscScan</a>
+      <a href="#" onclick="alert('Coming Soon!')">🔹 Add to Wallet</a>
+    </div>
+  </section>
+  <footer>
+    © 2025 INRcoin Bharat. For utility use only. Not a security.
+  </footer>
+</body>
+</html>
